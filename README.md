@@ -1,12 +1,17 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm learner</h1>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jenishpraveenkumarg&label=Profile%20views&color=0e75b6&style=flat" alt="jenishpraveenkumarg" /> </p>
 
+- 🔭 I’m currently working on **data science prooject**
+
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 📫 How to reach me **jenishpraveenkumar2911@gmail.com**
+- 👯 I’m looking to collaborate on **basic programming projects**
 
-- ⚡ Fun fact **I am a tech enthusiast**
+- 🤝 I’m looking for help with **data science and ml related projects**
+
+- 📫 How to reach me **jenishpraveenkumar2911@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
