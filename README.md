@@ -8,7 +8,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🌱 I’m always learning and exploring new technologies.
+- 🌱 Learning and exploring new technologies.
 - 🚀 Passionate about **coding** and **creating impactful projects**.
 - 💼 Building skills to become an **AI Developer**.
 - ✨ You’ll usually find me diving deep into new tech stacks or experimenting with side projects.
