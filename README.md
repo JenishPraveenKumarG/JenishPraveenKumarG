@@ -17,6 +17,7 @@
 
 - **Email**: [jenishpraveenkumar2911@gmail.com](mailto:jenishpraveenkumar2911@gmail.com)
 - **GitHub**: [github.com/JenishPraveenKumarG](https://github.com/JenishPraveenKumarG)
+- **LinkedIn**: [jenishg2911](https://www.linkedin.com/in/jenishg2911?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ---
 
